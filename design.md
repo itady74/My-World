@@ -3,4 +3,4 @@
 
 ## Colors
 ### Color Generation Tools
-[Atmos](atmos.style) - Everything you need to create color palettes.
+- [Atmos](atmos.style) - Everything you need to create color palettes.
